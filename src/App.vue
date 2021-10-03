@@ -43,7 +43,7 @@
       <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
       <div class="d-flex align-center">
         <a
-          href="https://github.com/sudhanshupatel-dev/Debris-tracking-Manji"
+          href="https://github.com/sudhanshupatel-dev/Debris-Tracking"
         >
         <v-img
           alt="Manji Logo"
